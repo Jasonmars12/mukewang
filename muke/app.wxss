@@ -1,0 +1,10 @@
+text{
+  font-family: SF UI Display
+}
+.button {
+  position: fixed;
+  bottom: 14px;
+  right: 236rpx;
+  width: 278rpx;
+  height: 92rpx;
+}
